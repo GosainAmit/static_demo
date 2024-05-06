@@ -1,2 +1,2 @@
 # static_demo
-static pages with alto router
+static pages with laravel
